@@ -39,7 +39,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code on GitHub]( https://www.frontendmentor.io/solutions/3-column-preview-card-component-using-flexbox-vJ-Cvn9b34)
+- Solution URL: [Code on GitHub](https://github.com/henrikkudesu/3-column-preview-card-component)
 - Live Site URL: [GitHub Pages Live URL](https://henrikkudesu.github.io/3-column-preview-card-component/)
 
 ## My process
